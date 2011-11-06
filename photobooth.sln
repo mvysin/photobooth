@@ -1,9 +1,9 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "photobooth", "photobooth\photobooth.csproj", "{B4F2A38D-C5F2-4C05-AE2F-247D48B53C0F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wpdapi", "wpdapi\wpdapi.vcproj", "{CBDA27D1-FBAF-48C1-BCD8-6FA1D76F1EDF}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wpdapi", "wpdapi\wpdapi.vcxproj", "{CBDA27D1-FBAF-48C1-BCD8-6FA1D76F1EDF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
